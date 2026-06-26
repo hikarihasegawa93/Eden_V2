@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Model checkpoints / tensors (never published)
+*.pt
+*.ckpt
+*.pth
+*.bin
+
+# Caches
+.cache/
+huggingface_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.claude/
+
+# Plots / temporary logs
+*.png
+*.jpg
+*.pdf
+*.log
