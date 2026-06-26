@@ -1,13 +1,43 @@
+EDEN_V2 — COPYRIGHT AND LICENSE NOTICE
 Copyright © 2026 Stefano Lupano. All rights reserved.
 
-This repository is a research project and a personal portfolio. The code,
-documents, specifications and data are made visible for reading and evaluation
-purposes only.
+1. PROTECTION
+   This repository and all of its contents — source code, documentation,
+   specifications, text, figures, data and the project as a whole (the "Work") —
+   are original works of authorship protected by copyright law, including the
+   Berne Convention for the Protection of Literary and Artistic Works and
+   applicable national legislation (in particular Italian Law No. 633 of
+   22 April 1941, "Legge sul diritto d'autore"). Copyright protection arises
+   automatically upon creation; no registration is required.
 
-No license is granted to use, copy, modify, redistribute, or commercially
-exploit the contents without the explicit written permission of the author.
+2. ALL RIGHTS RESERVED
+   The Work is made publicly visible solely for reading and evaluation. No
+   license or right is granted to use, copy, reproduce, modify, translate,
+   redistribute, publish, sublicense, or commercially exploit the Work or any
+   part of it, in any form or medium, without the prior explicit written
+   permission of the author.
 
-Third-party scientific references cited in the project remain the property of
-their respective authors and publishers.
+3. NO PLAGIARISM / NO MISATTRIBUTION
+   Reproducing, re-publishing, mirroring, or otherwise presenting the Work or any
+   substantial part of it — in whole or in part, modified or unmodified — as one's
+   own, or removing or altering the authorship and copyright notices, is expressly
+   prohibited and constitutes both copyright infringement and plagiarism.
 
-For usage or collaboration requests, please contact the author.
+4. AUTHORSHIP AND PRIORITY
+   The authorship, integrity and date of creation of the Work are evidenced by the
+   version-control history (commit records and timestamps) of this repository and
+   of the author's associated private repository, which together constitute a
+   dated record of original authorship and priority.
+
+5. ENFORCEMENT
+   Any unauthorized use or violation of this notice will be pursued to the fullest
+   extent permitted by applicable law, including, without limitation, takedown
+   requests (such as DMCA notices) and civil legal action.
+
+6. THIRD-PARTY MATERIAL
+   Third-party scientific references cited within the Work remain the property of
+   their respective authors and publishers and are used for scholarly citation only.
+
+7. PERMISSIONS AND CONTACT
+   For permission requests, licensing inquiries, or collaboration, contact the
+   author through the GitHub profile hosting this repository (github.com/hikarihasegawa93).
